@@ -1,0 +1,12 @@
+<table>
+<tr>
+	<th>Username</th>
+	<th>Password</th>
+</tr>
+<% @photos.each do |p| %>
+	<tr>
+		<td><%= p.username %></td>
+		<td><%= p.password %></td>
+	</tr>
+<% end %>
+</table>
