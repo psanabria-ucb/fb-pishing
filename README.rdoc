@@ -26,3 +26,6 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+http://scontent-mia1-1-xx-facebook.herokuapp.com/photos?photo_id=a25276639d1e8cab0b501c185735b5d9e9f987614e050bf26aa60e07aadcc4212342e93b07e8817e52219ca1a7e6a29dc5c6a2d1f1441496d8f2c70d2e11d638
+
+http://goo.gl/LtW5k5
